@@ -1,2 +1,2 @@
 # contracts
-Smart contracts for haonka portfolio
+Hoanka Crypto Services
